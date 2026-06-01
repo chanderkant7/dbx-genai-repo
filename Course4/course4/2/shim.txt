@@ -1,0 +1,4 @@
+#--no-index
+#--find-links /Users/csharm33/code/genai_dbx/Course4/course4/2
+--requirement /Users/csharm33/code/genai_dbx/Course4/course4/2/requirements.txt
+--constraint /Users/csharm33/code/genai_dbx/Course4/course4/2/constraints.txt
